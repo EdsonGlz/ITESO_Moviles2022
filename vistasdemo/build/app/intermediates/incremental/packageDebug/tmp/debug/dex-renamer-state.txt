@@ -1,0 +1,4 @@
+#Tue Jan 31 17:18:30 CST 2023
+base.0=D\:\\Moviles\\vistasdemo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
