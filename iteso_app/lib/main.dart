@@ -17,7 +17,12 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomePage(),
-    );
+        home: Scaffold(
+      appBar: AppBar(
+        title: Text('Bienvenidos al ITESO'),
+        backgroundColor: Colors.indigo,
+      ),
+      body: HomePage(),
+    ));
   }
 }

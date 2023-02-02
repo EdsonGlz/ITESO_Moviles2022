@@ -19,19 +19,16 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Material App Bar'),
-      ),
       body: Column(
         children: [
           Image.network(
               "https://cruce.iteso.mx/wp-content/uploads/sites/123/2018/04/Portada-2-e1525031912445.jpg"),
           Padding(
-            padding: const EdgeInsets.only(bottom: 20.0),
+            padding: const EdgeInsets.only(bottom: 20.0, top: 15),
             child: ListTile(
               title: Text(
                 "El ITESO, universidad Jesuita de Guadalajara",
-                style: TextStyle(fontWeight: FontWeight.bold),
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
               ),
               trailing: Wrap(
                 crossAxisAlignment: WrapCrossAlignment.center,
@@ -84,7 +81,7 @@ class _HomePageState extends State<HomePage> {
                             ..hideCurrentSnackBar()
                             ..showSnackBar(SnackBar(
                                 content: Text(
-                                    "Puedes encontrar comida en sus cafeterias")));
+                                    "Puedes pedir información en rectoría")));
                           setState(() {});
                         },
                         icon: Icon(Icons.info)),
@@ -102,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                             ..hideCurrentSnackBar()
                             ..showSnackBar(SnackBar(
                                 content: Text(
-                                    "Puedes encontrar comida en sus cafeterias")));
+                                    "Se encuentra ubicado en Periférico Sur 8585")));
                           setState(() {});
                         },
                         icon: Icon(Icons.location_on)),
