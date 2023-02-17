@@ -1,18 +1,23 @@
 # Crypto App
 
-+List View
-+List tiles
-+Cargar datos de un JSON / Mapa
+- List View
+- List tiles
+- Cargar datos de un JSON / Mapa
 
-## Getting Started
+## Descripción de la App
 
-This project is a starting point for a Flutter application.
+Aplicacion que muestra crypto monedas
 
-A few resources to get you started if this is your first Flutter project:
+## Lo que me costo trabajo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Me costo trabajo convertir los datos de un string a un JSON.
+* Me costo trabajo entender la estructura de como se maneja un objeto cuando se le aplica *jsonDecode()*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lo que aprendí
+
+* Reforce como se utilizan los ListViews y ListTiles, ademas de cada uno de los atributos con los que cuentan.
+* Aprendí a convertir Strings a un objeto json y como acceder a sus atributos. 
+
+## Screenshots de la app
+
+<img src="https://user-images.githubusercontent.com/28793684/219546683-bc29e7ad-1e95-45eb-abb3-aabceb6a0d62.png" width="200" height="430" /> &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/28793684/219547381-26834a83-332d-4c23-b988-c5a7c8039095.png" width="200" height="430" /> 
