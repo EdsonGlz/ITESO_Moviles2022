@@ -1,6 +1,8 @@
-# crypto_app
+# Crypto App
 
-A new Flutter project.
++List View
++List tiles
++Cargar datos de un JSON / Mapa
 
 ## Getting Started
 
