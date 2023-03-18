@@ -24,3 +24,8 @@ App para practicar los siguientes temas:
 <img src="https://user-images.githubusercontent.com/28793684/226085315-3a003c0c-5bf7-49fb-bd48-d0d60c540fda.png" width="240" height="480" />
 <img src="https://user-images.githubusercontent.com/28793684/226085342-27e2f569-cf55-4f01-b833-38fefe1076e8.png" width="240" height="480" />
 <img src="https://user-images.githubusercontent.com/28793684/226085371-c80b4cec-961d-434f-9052-ef80a9170cf9.png" width="240" height="480" />
+
+## Evidencia
+
+[Link a video de la app funcionando](https://www.loom.com/share/407f1fc7c62e457d82a3f3b9d34e810e)
+
